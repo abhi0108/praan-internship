@@ -1,0 +1,92 @@
+[
+    {
+        "id":"1",
+        "timestamp":"9:00",
+        "wind_direction":"SE",
+        "wind_speed": 20,
+        "p1":2 ,
+        "p2":4,
+        "p3":6 
+    },
+    {
+        "id":"2",
+        "timestamp":"9:10",
+        "wind_direction":"S",
+        "wind_speed":10 ,
+        "p1": 6,
+        "p2": 1,
+        "p3": 9
+    },
+    {
+        "id":"3",
+        "timestamp":"9:20",
+        "wind_direction":"W",
+        "wind_speed":15 ,
+        "p1":7 ,
+        "p2":9 ,
+        "p3": 2
+    },
+    {
+        "id":"4",
+        "timestamp":"9:30",
+        "wind_direction":"NW",
+        "wind_speed": 35,
+        "p1": 4,
+        "p2": 3,
+        "p3": 2
+    },
+    {
+        "id":"5",
+        "timestamp":"9:40",
+        "wind_direction":"NE",
+        "wind_speed": 30,
+        "p1": 4,
+        "p2": 7,
+        "p3": 8
+    },
+    {
+        "id":"6",
+        "timestamp":"9:50",
+        "wind_direction":"N",
+        "wind_speed": 63,
+        "p1": 8,
+        "p2": 1,
+        "p3": 3
+    },
+    {
+        "id":"7",
+        "timestamp":"9:60",
+        "wind_direction":"E",
+        "wind_speed":55 ,
+        "p1": 3,
+        "p2": 6,
+        "p3": 7
+    },
+    {
+        "id":"8",
+        "timestamp":"9:70",
+        "wind_direction":"SW",
+        "wind_speed": 87,
+        "p1": 4,
+        "p2": 8,
+        "p3": 9
+    },
+    {
+        "id":"9",
+        "timestamp":"9:80",
+        "wind_direction":"SE",
+        "wind_speed": 98,
+        "p1": 5,
+        "p2": 9,
+        "p3": 3
+    },
+    {
+        "id":"10",
+        "timestamp":"9:90",
+        "wind_direction":"N",
+        "wind_speed": 40,
+        "p1": 6,
+        "p2": 8,
+        "p3": 2
+    }
+]
